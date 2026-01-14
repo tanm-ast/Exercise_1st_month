@@ -28,8 +28,6 @@
 ## 1. External Rotations
 **Reps:** 15 each arm | **Tempo:** Slow and controlled
 
-![External Rotation Exercise](./images/push-up.gif)
-
 **How to perform:**
 - Stand or sit with elbow pinned to your side at 90°
 - Hold water bottle in hand
@@ -46,8 +44,6 @@
 
 ## 2. Wall Slides
 **Reps:** 10 | **Hold:** 1-2 seconds at top
-
-![Wall Slides Exercise](./images/push-up.gif)
 
 **How to perform:**
 - Stand with back against wall, feet 6 inches away
@@ -66,8 +62,6 @@
 ## 3. Shoulder Blade Squeeze (Band Pull-Apart Motion)
 **Reps:** 15 | **Hold:** 3 seconds each
 
-![Shoulder Blade Squeeze](./images/push-up.gif)
-
 **How to perform:**
 - Stand with arms extended forward at shoulder height
 - Without bending elbows, pull arms back
@@ -84,8 +78,6 @@
 
 ## 4. Dead Hangs
 **Week 1:** 10-15 sec | **Week 4 Goal:** 30 seconds
-
-![Dead Hang Exercise](./images/push-up.gif)
 
 **How to perform:**
 - Grip the bar with overhand grip, shoulder-width apart
@@ -115,7 +107,7 @@
 #### Push-Ups
 **Sets:** 3 | **Reps:** 10 | **Rest:** 60 sec
 
-![Push-Up Exercise](./images/push-up.gif)
+![Push-Up Exercise](https://media.giphy.com/media/kYvaNlsFBgq3xZ8fRn/giphy.gif)
 
 **How to perform:**
 - Start in plank position, hands slightly wider than shoulders
@@ -134,7 +126,7 @@
 #### Pike Push-Ups
 **Sets:** 2 | **Reps:** 6-8 | **Rest:** 60 sec
 
-![Pike Push-Up](./images/push-up.gif)
+![Pike Push-Up](https://media.giphy.com/media/o81SS6r5Doy81ecomn/giphy.gif)
 
 **How to perform:**
 - Start in downward dog position (inverted V shape)
@@ -162,8 +154,6 @@
 #### Negative Pull-Ups
 **Sets:** 3 | **Reps:** 3 | **Tempo:** 5-second descent | **Rest:** 90 sec
 
-![Negative Pull-Up](./images/pullup.gif)
-
 **How to perform:**
 - Jump up or step up to the top position (chin above bar)
 - Grip bar with overhand grip, shoulder-width or slightly wider
@@ -181,8 +171,6 @@
 
 #### Inverted Rows (if you have a sturdy table)
 **Sets:** 2 | **Reps:** 8 | **Rest:** 60 sec
-
-![Inverted Row](./images/push-up.gif)
 
 **How to perform:**
 - Lie under a sturdy table, face up
@@ -203,7 +191,7 @@
 #### Bodyweight Squats
 **Sets:** 3 | **Reps:** 15 | **Rest:** 60 sec
 
-![Bodyweight Squat](./images/squat.gif)
+![Bodyweight Squat](https://media.giphy.com/media/1qfDU4MJv9xoGLY129/giphy.gif)
 
 **How to perform:**
 - Stand with feet shoulder-width apart, toes slightly out
@@ -223,7 +211,7 @@
 #### Reverse Lunges
 **Sets:** 2 | **Reps:** 8 each leg | **Rest:** 60 sec
 
-![Reverse Lunge](./images/push-up.gif)
+![Reverse Lunge](https://media.giphy.com/media/3NwJMCr0jrdJpb6SiP/giphy.gif)
 
 **How to perform:**
 - Stand tall with feet hip-width apart
@@ -243,7 +231,7 @@
 #### Glute Bridges
 **Sets:** 3 | **Reps:** 12 | **Hold:** 2 sec at top | **Rest:** 60 sec
 
-![Glute Bridge](./images/push-up.gif)
+![Glute Bridge](https://media.giphy.com/media/26FPJIbqE5Rhkah4Q/giphy.gif)
 
 **How to perform:**
 - Lie on back with knees bent, feet flat on floor
@@ -262,8 +250,6 @@
 
 #### Single-Leg Calf Raises
 **Sets:** 2 | **Reps:** 15 each leg | **Rest:** 45 sec
-
-![Calf Raise](./images/push-up.gif)
 
 **How to perform:**
 - Stand on one foot near a wall for balance
@@ -284,7 +270,7 @@
 #### Dead Bug
 **Sets:** 2 | **Reps:** 8 each side | **Rest:** 45 sec
 
-![Dead Bug Exercise](./images/push-up.gif)
+![Dead Bug Exercise](https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif)
 
 **How to perform:**
 - Lie on back with arms pointed toward ceiling
@@ -304,7 +290,7 @@
 #### Plank
 **Sets:** 2 | **Duration:** 20-30 seconds | **Rest:** 45 sec
 
-![Plank Exercise](./images/push-up.gif)
+![Plank Exercise](https://media.giphy.com/media/xT8qBvgKeMvMGSJNgA/giphy.gif)
 
 **How to perform:**
 - Forearms on floor, elbows directly under shoulders
@@ -381,7 +367,7 @@
 #### Bulgarian Split Squats ⭐ *Key Exercise*
 **Sets:** 3 | **Reps:** 8 each leg | **Rest:** 90 sec
 
-![Bulgarian Split Squat](./images/squat.gif)
+![Bulgarian Split Squat](https://media.giphy.com/media/1AfLx8dLTVoHK/giphy.gif)
 
 **How to perform:**
 - Stand 2-3 feet in front of bed/chair
@@ -404,8 +390,6 @@
 
 #### Single-Leg Romanian Deadlift (Bodyweight)
 **Sets:** 2 | **Reps:** 10 each leg | **Rest:** 60 sec
-
-![Single Leg RDL](./images/push-up.gif)
 
 **How to perform:**
 - Stand on one leg with slight knee bend
@@ -437,8 +421,6 @@
 
 #### Side-Lying Leg Raises (Hip Abductors)
 **Sets:** 2 | **Reps:** 15 each side | **Rest:** 45 sec
-
-![Side Lying Leg Raise](./images/push-up.gif)
 
 **How to perform:**
 - Lie on your side with legs stacked
@@ -477,7 +459,7 @@
 #### Diamond Push-Ups
 **Sets:** 2 | **Reps:** 6-8 | **Rest:** 60 sec
 
-![Diamond Push-Up](./images/push-up.gif)
+![Diamond Push-Up](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F0aDQwbXU4MWVxeWN0MnU4czg5cDNsMHJyOHpvcXpxMDYwd2NuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriNLSW2PXUV3n35C/giphy.gif)
 
 **How to perform:**
 - Form diamond/triangle with hands (thumbs and index fingers touching)
@@ -520,8 +502,6 @@
 #### Chin-Ups (palms facing you)
 **Sets:** 2 | **Reps:** 1-2 attempts | **Rest:** 90 sec
 
-![Chin-Up](./images/push-up.gif)
-
 **How to perform:**
 - Grip bar with palms facing toward you (supinated)
 - Grip can be shoulder-width or narrower
@@ -549,7 +529,7 @@
 #### Jump Squats
 **Sets:** 2 | **Reps:** 8 | **Rest:** 90 sec
 
-![Jump Squat](./images/squat.gif)
+![Jump Squat](https://media.giphy.com/media/1hMdCqI6vN09dRCdp1/giphy.gif)
 
 **How to perform:**
 - Start in squat position
@@ -579,8 +559,6 @@
 #### Walking Lunges
 **Sets:** 2 | **Reps:** 12 each leg | **Rest:** 60 sec
 
-![Walking Lunge](./images/push-up.gif)
-
 **How to perform:**
 - Take a large step forward
 - Lower back knee toward ground
@@ -598,7 +576,7 @@
 #### Wall Sit
 **Sets:** 2 | **Duration:** 30-45 seconds | **Rest:** 60 sec
 
-![Wall Sit](./images/push-up.gif)
+![Wall Sit](https://media.giphy.com/media/5t0xKpeKZRYGNjXeuB/giphy.gif)
 
 **How to perform:**
 - Back flat against wall
@@ -673,8 +651,6 @@
 #### Archer Push-Ups (Advanced - Optional)
 **Sets:** 2 | **Reps:** 4 each side | **Rest:** 90 sec
 
-![Archer Push-Up](./images/push-up.gif)
-
 **How to perform:**
 - Take a very wide push-up stance
 - Lower toward one hand while keeping other arm straight
@@ -712,8 +688,6 @@
 #### Pistol Squat Progression ⭐ *Advanced*
 **Sets:** 3 | **Reps:** 5 each leg (assisted) | **Rest:** 90 sec
 
-![Pistol Squat](./images/squat.gif)
-
 **How to perform (assisted version):**
 - Stand near doorframe or hold onto something stable
 - Extend one leg out in front of you
@@ -736,8 +710,6 @@
 
 #### Nordic Curl Negatives ⭐ *Advanced Hamstring*
 **Sets:** 2-3 | **Reps:** 3-4 | **Rest:** 90 sec
-
-![Nordic Curl](./images/push-up.gif)
 
 **How to perform:**
 - Kneel on soft surface (pillow/mat)
