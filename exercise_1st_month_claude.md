@@ -28,7 +28,7 @@
 ## 1. External Rotations
 **Reps:** 15 each arm | **Tempo:** Slow and controlled
 
-![External Rotation Exercise](https://www.inspireusafoundation.org/wp-content/uploads/2022/11/dumbbell-external-rotation.gif)
+![External Rotation Exercise](./images/push-up.gif)
 
 **How to perform:**
 - Stand or sit with elbow pinned to your side at 90°
@@ -47,7 +47,7 @@
 ## 2. Wall Slides
 **Reps:** 10 | **Hold:** 1-2 seconds at top
 
-![Wall Slides Exercise](https://www.inspireusafoundation.org/wp-content/uploads/2022/06/wall-slide.gif)
+![Wall Slides Exercise](./images/push-up.gif)
 
 **How to perform:**
 - Stand with back against wall, feet 6 inches away
@@ -66,7 +66,7 @@
 ## 3. Shoulder Blade Squeeze (Band Pull-Apart Motion)
 **Reps:** 15 | **Hold:** 3 seconds each
 
-![Shoulder Blade Squeeze](https://www.inspireusafoundation.org/wp-content/uploads/2023/09/rear-delt-fly.gif)
+![Shoulder Blade Squeeze](./images/push-up.gif)
 
 **How to perform:**
 - Stand with arms extended forward at shoulder height
@@ -85,7 +85,7 @@
 ## 4. Dead Hangs
 **Week 1:** 10-15 sec | **Week 4 Goal:** 30 seconds
 
-![Dead Hang Exercise](https://www.inspireusafoundation.org/wp-content/uploads/2022/03/dead-hang.gif)
+![Dead Hang Exercise](./images/push-up.gif)
 
 **How to perform:**
 - Grip the bar with overhand grip, shoulder-width apart
@@ -115,7 +115,7 @@
 #### Push-Ups
 **Sets:** 3 | **Reps:** 10 | **Rest:** 60 sec
 
-![Push-Up Exercise](https://www.inspireusafoundation.org/wp-content/uploads/2022/04/push-up.gif)
+![Push-Up Exercise](./images/push-up.gif)
 
 **How to perform:**
 - Start in plank position, hands slightly wider than shoulders
@@ -134,7 +134,7 @@
 #### Pike Push-Ups
 **Sets:** 2 | **Reps:** 6-8 | **Rest:** 60 sec
 
-![Pike Push-Up](https://www.inspireusafoundation.org/wp-content/uploads/2022/10/pike-push-up.gif)
+![Pike Push-Up](./images/push-up.gif)
 
 **How to perform:**
 - Start in downward dog position (inverted V shape)
@@ -162,7 +162,7 @@
 #### Negative Pull-Ups
 **Sets:** 3 | **Reps:** 3 | **Tempo:** 5-second descent | **Rest:** 90 sec
 
-![Negative Pull-Up](https://www.inspireusafoundation.org/wp-content/uploads/2022/06/jumping-pull-up.gif)
+![Negative Pull-Up](./images/pullup.gif)
 
 **How to perform:**
 - Jump up or step up to the top position (chin above bar)
@@ -182,7 +182,7 @@
 #### Inverted Rows (if you have a sturdy table)
 **Sets:** 2 | **Reps:** 8 | **Rest:** 60 sec
 
-![Inverted Row](https://www.inspireusafoundation.org/wp-content/uploads/2022/08/inverted-row.gif)
+![Inverted Row](./images/push-up.gif)
 
 **How to perform:**
 - Lie under a sturdy table, face up
@@ -203,7 +203,7 @@
 #### Bodyweight Squats
 **Sets:** 3 | **Reps:** 15 | **Rest:** 60 sec
 
-![Bodyweight Squat](https://www.inspireusafoundation.org/wp-content/uploads/2022/01/bodyweight-squat.gif)
+![Bodyweight Squat](./images/squat.gif)
 
 **How to perform:**
 - Stand with feet shoulder-width apart, toes slightly out
@@ -223,7 +223,7 @@
 #### Reverse Lunges
 **Sets:** 2 | **Reps:** 8 each leg | **Rest:** 60 sec
 
-![Reverse Lunge](https://www.inspireusafoundation.org/wp-content/uploads/2022/11/bodyweight-reverse-lunge.gif)
+![Reverse Lunge](./images/push-up.gif)
 
 **How to perform:**
 - Stand tall with feet hip-width apart
@@ -243,7 +243,7 @@
 #### Glute Bridges
 **Sets:** 3 | **Reps:** 12 | **Hold:** 2 sec at top | **Rest:** 60 sec
 
-![Glute Bridge](https://www.inspireusafoundation.org/wp-content/uploads/2022/08/glute-bridge.gif)
+![Glute Bridge](./images/push-up.gif)
 
 **How to perform:**
 - Lie on back with knees bent, feet flat on floor
@@ -263,7 +263,7 @@
 #### Single-Leg Calf Raises
 **Sets:** 2 | **Reps:** 15 each leg | **Rest:** 45 sec
 
-![Calf Raise](https://www.inspireusafoundation.org/wp-content/uploads/2022/05/standing-calf-raise.gif)
+![Calf Raise](./images/push-up.gif)
 
 **How to perform:**
 - Stand on one foot near a wall for balance
@@ -284,7 +284,7 @@
 #### Dead Bug
 **Sets:** 2 | **Reps:** 8 each side | **Rest:** 45 sec
 
-![Dead Bug Exercise](https://www.inspireusafoundation.org/wp-content/uploads/2022/04/dead-bug.gif)
+![Dead Bug Exercise](./images/push-up.gif)
 
 **How to perform:**
 - Lie on back with arms pointed toward ceiling
@@ -304,7 +304,7 @@
 #### Plank
 **Sets:** 2 | **Duration:** 20-30 seconds | **Rest:** 45 sec
 
-![Plank Exercise](https://www.inspireusafoundation.org/wp-content/uploads/2021/08/plank-hold.gif)
+![Plank Exercise](./images/push-up.gif)
 
 **How to perform:**
 - Forearms on floor, elbows directly under shoulders
@@ -381,7 +381,7 @@
 #### Bulgarian Split Squats ⭐ *Key Exercise*
 **Sets:** 3 | **Reps:** 8 each leg | **Rest:** 90 sec
 
-![Bulgarian Split Squat](https://www.inspireusafoundation.org/wp-content/uploads/2022/02/bodyweight-bulgarian-split-squat.gif)
+![Bulgarian Split Squat](./images/squat.gif)
 
 **How to perform:**
 - Stand 2-3 feet in front of bed/chair
@@ -405,7 +405,7 @@
 #### Single-Leg Romanian Deadlift (Bodyweight)
 **Sets:** 2 | **Reps:** 10 each leg | **Rest:** 60 sec
 
-![Single Leg RDL](https://www.inspireusafoundation.org/wp-content/uploads/2022/11/single-leg-romanian-deadlift.gif)
+![Single Leg RDL](./images/push-up.gif)
 
 **How to perform:**
 - Stand on one leg with slight knee bend
@@ -438,7 +438,7 @@
 #### Side-Lying Leg Raises (Hip Abductors)
 **Sets:** 2 | **Reps:** 15 each side | **Rest:** 45 sec
 
-![Side Lying Leg Raise](https://www.inspireusafoundation.org/wp-content/uploads/2022/03/lying-leg-raise.gif)
+![Side Lying Leg Raise](./images/push-up.gif)
 
 **How to perform:**
 - Lie on your side with legs stacked
@@ -477,7 +477,7 @@
 #### Diamond Push-Ups
 **Sets:** 2 | **Reps:** 6-8 | **Rest:** 60 sec
 
-![Diamond Push-Up](https://www.inspireusafoundation.org/wp-content/uploads/2022/10/diamond-push-ups.gif)
+![Diamond Push-Up](./images/push-up.gif)
 
 **How to perform:**
 - Form diamond/triangle with hands (thumbs and index fingers touching)
@@ -520,7 +520,7 @@
 #### Chin-Ups (palms facing you)
 **Sets:** 2 | **Reps:** 1-2 attempts | **Rest:** 90 sec
 
-![Chin-Up](https://www.inspireusafoundation.org/wp-content/uploads/2022/06/chin-up.gif)
+![Chin-Up](./images/push-up.gif)
 
 **How to perform:**
 - Grip bar with palms facing toward you (supinated)
@@ -549,7 +549,7 @@
 #### Jump Squats
 **Sets:** 2 | **Reps:** 8 | **Rest:** 90 sec
 
-![Jump Squat](https://www.inspireusafoundation.org/wp-content/uploads/2022/11/bodyweight-jump-squat.gif)
+![Jump Squat](./images/squat.gif)
 
 **How to perform:**
 - Start in squat position
@@ -579,7 +579,7 @@
 #### Walking Lunges
 **Sets:** 2 | **Reps:** 12 each leg | **Rest:** 60 sec
 
-![Walking Lunge](https://www.inspireusafoundation.org/wp-content/uploads/2022/05/dumbbell-walking-lunge.gif)
+![Walking Lunge](./images/push-up.gif)
 
 **How to perform:**
 - Take a large step forward
@@ -598,7 +598,7 @@
 #### Wall Sit
 **Sets:** 2 | **Duration:** 30-45 seconds | **Rest:** 60 sec
 
-![Wall Sit](https://www.inspireusafoundation.org/wp-content/uploads/2022/02/wall-sit.gif)
+![Wall Sit](./images/push-up.gif)
 
 **How to perform:**
 - Back flat against wall
@@ -673,7 +673,7 @@
 #### Archer Push-Ups (Advanced - Optional)
 **Sets:** 2 | **Reps:** 4 each side | **Rest:** 90 sec
 
-![Archer Push-Up](https://www.inspireusafoundation.org/wp-content/uploads/2023/07/archer-push-up.gif)
+![Archer Push-Up](./images/push-up.gif)
 
 **How to perform:**
 - Take a very wide push-up stance
@@ -712,7 +712,7 @@
 #### Pistol Squat Progression ⭐ *Advanced*
 **Sets:** 3 | **Reps:** 5 each leg (assisted) | **Rest:** 90 sec
 
-![Pistol Squat](https://www.inspireusafoundation.org/wp-content/uploads/2023/06/pistol-squat.gif)
+![Pistol Squat](./images/squat.gif)
 
 **How to perform (assisted version):**
 - Stand near doorframe or hold onto something stable
@@ -737,7 +737,7 @@
 #### Nordic Curl Negatives ⭐ *Advanced Hamstring*
 **Sets:** 2-3 | **Reps:** 3-4 | **Rest:** 90 sec
 
-![Nordic Curl](https://www.inspireusafoundation.org/wp-content/uploads/2022/04/nordic-curl.gif)
+![Nordic Curl](./images/push-up.gif)
 
 **How to perform:**
 - Kneel on soft surface (pillow/mat)
